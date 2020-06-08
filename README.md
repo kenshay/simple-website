@@ -1,2 +1,2 @@
-# simple-website
-Phonetic alpha-bet website
+# phonetic-website
+This repository is used for Git and GitHub training.
